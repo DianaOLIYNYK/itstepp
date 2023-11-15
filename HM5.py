@@ -9,4 +9,4 @@ while True:
     user_number = int(input("Сума в гривнях:"))
     user_number_rate = float(dollar.replace(",", ""))
     dollar_number = user_number / user_number_rate
-    print("Ви маєте:", dollar_number, "$")
+    print("Ви маєте: ", dollar_number, "$")
