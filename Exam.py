@@ -1,4 +1,5 @@
 import random
+
 import math
 
 lower = int(input("Введіть ціле число від:- "))
